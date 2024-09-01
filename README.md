@@ -14,8 +14,8 @@
 
 ## Installation
 
-1. **Download Skullix Loader**: Get the latest version from our [official download page](https://wetransfer.com/downloads/1027a77b7ad5827cd29f24300fb4344a20240831142750/747e2d).
-2. **Run the Installer**: Follow the on-screen instructions to install Skullix Loader on your system.
+1. **Download Skullix Loader**: Get the latest version from our github.
+2. **Run the Installer (skullixloader.exe)**: Follow the on-screen instructions to install Skullix Loader on your system.
 3. **Select Your Game**: Choose the game you wish to mod from the Skullix Loader interface.
 4. **Load Mods**: Browse and select the mods you want to install. Customize and manage your mods with ease.
 
